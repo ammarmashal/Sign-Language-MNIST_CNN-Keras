@@ -39,3 +39,5 @@ confusion_matrix
 
 
 It was good work I hope you get the best benefit
+
+Competition link: https://www.kaggle.com/ammarmashal/sign-language-mnist-cnn-keras
